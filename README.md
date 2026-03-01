@@ -50,26 +50,26 @@ A modern real-time chat application built using **React.js, Node.js, Express, an
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/ashishsalunke24/real-time-chat-app.git
-cd real-time-chat-app
+✅git clone https://github.com/ashishsalunke24/real-time-chat-app.git
+✅cd real-time-chat-app
 
 ### 2️⃣ Install Backend Dependencies
 
-cd server
-npm install
-Run backend:
-node index.js
+✅cd server
+✅npm install
+✅Run backend:
+✅node index.js
 
 ### 3️⃣ Install Frontend Dependencies
 
-Open new terminal:
-cd client
-npm install
-npm run dev
+✅Open new terminal:
+✅cd client
+✅npm install
+✅npm run dev
 
 ### 4️⃣ Open in Browser
 
-http://localhost:5173
+✅http://localhost:5173
 
 
 📂 Project Structure
@@ -82,7 +82,7 @@ real-time-chat-app
 └── README.md
 👨‍💻 Author
 
-Ashish Salunke
+✅Ashish Salunke
 GitHub: https://github.com/ashishsalunke24
 
 📜 License
