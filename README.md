@@ -37,13 +37,13 @@ Backend:
 ## 📸 Screenshots
 
 ### Join Screen
-![Join Screen](screenshots/Join Screen-UI.png)
+![Join Screen](screenshots/JoinScreen-UI.png)
 
 ### Chat UI
 ![Chat UI](screenshots/Chat-UI.png)
 
 ### Dark Mode
-![Dark Mode](screenshots/Dark Mode Chat-UI.png)
+![Dark Mode](screenshots/DarkModeChat-UI.png)
 ---
 
 ## ⚙️ Installation
