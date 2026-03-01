@@ -1,2 +1,52 @@
-# real-time-chat-app
-Real-Time Chat Application using React.js, Node.js, Express, and Socket.IO with private rooms, typing indicator, reactions, and dark mode.
+# 💬 Real-Time Chat Application
+
+A modern real-time chat application built using **React.js, Node.js, Express, and Socket.IO** with private rooms, typing indicator, reactions, and dark mode.
+
+---
+
+## 🚀 Features
+
+✅ Real-time messaging  
+✅ Private chat rooms  
+✅ Typing indicator (who is typing)  
+✅ Emoji picker 😀  
+✅ Message reactions 👍 ❤️ 🔥  
+✅ Dark mode 🌙  
+✅ Online users counter  
+✅ Message status (sent/seen)  
+✅ Mobile responsive UI  
+✅ Glassmorphism chat bubbles  
+
+---
+
+## 🛠️ Tech Stack
+
+Frontend:
+- React.js
+- Socket.IO Client
+- CSS
+
+Backend:
+- Node.js
+- Express.js
+- Socket.IO
+- CORS
+
+---
+
+## 📸 Screenshots
+
+![Chat UI](screenshots/chat-ui.png)
+
+![Join Screen](screenshots/join-screen.png)
+
+![Dark Mode](screenshots/dark-mode.png)
+
+---
+
+## ⚙️ Installation
+
+### Clone repository
+
+```bash
+git clone https://github.com/ashishsalunke24/real-time-chat-app.git
