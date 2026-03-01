@@ -36,13 +36,13 @@ A modern real-time chat application built using **React.js, Node.js, Express, an
 ## 📸 Screenshots
 
 ### Join Screen
-![Join Screen](screenshots/Join%20Screen-UI.png)
+![Join Screen](screenshots/JoinScreen-UI.png)
 
 ### Chat UI
 ![Chat UI](screenshots/Chat-UI.png)
 
 ### Dark Mode
-![Dark Mode](screenshots/Dark%20Mode%20Chat-UI.png)
+![Dark Mode](screenshots/DarkModeChat-UI.png)
 
 ---
 
