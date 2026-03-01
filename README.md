@@ -13,9 +13,8 @@ A modern real-time chat application built using **React.js, Node.js, Express, an
 ✅ Message reactions 👍 ❤️ 🔥  
 ✅ Dark mode 🌙  
 ✅ Online users counter  
-✅ Message status (sent/seen)  
+✅ Message status (sent)  
 ✅ Mobile responsive UI  
-✅ Glassmorphism chat bubbles  
 
 ---
 
