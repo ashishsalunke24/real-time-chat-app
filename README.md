@@ -20,12 +20,12 @@ A modern real-time chat application built using **React.js, Node.js, Express, an
 
 ## 🛠️ Tech Stack
 
-Frontend:
+### Frontend
 - React.js
 - Socket.IO Client
 - CSS
 
-Backend:
+### Backend
 - Node.js
 - Express.js
 - Socket.IO
@@ -36,18 +36,55 @@ Backend:
 ## 📸 Screenshots
 
 ### Join Screen
-![Join Screen](screenshots/JoinScreen-UI.png)
+![Join Screen](screenshots/Join%20Screen-UI.png)
 
 ### Chat UI
 ![Chat UI](screenshots/Chat-UI.png)
 
 ### Dark Mode
-![Dark Mode](screenshots/DarkModeChat-UI.png)
+![Dark Mode](screenshots/Dark%20Mode%20Chat-UI.png)
+
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup
 
-### Clone repository
+### 1️⃣ Clone Repository
 
-```bash
 git clone https://github.com/ashishsalunke24/real-time-chat-app.git
+cd real-time-chat-app
+
+### 2️⃣ Install Backend Dependencies
+
+cd server
+npm install
+Run backend:
+node index.js
+
+### 3️⃣ Install Frontend Dependencies
+
+Open new terminal:
+cd client
+npm install
+npm run dev
+
+### 4️⃣ Open in Browser
+
+http://localhost:5173
+
+
+📂 Project Structure
+
+real-time-chat-app
+│
+├── Backend        # Node backend
+├── Frontend        # React frontend
+├── screenshots   # Project images
+└── README.md
+👨‍💻 Author
+
+Ashish Salunke
+GitHub: https://github.com/ashishsalunke24
+
+📜 License
+
+This project is licensed under the MIT License.
